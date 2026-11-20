@@ -1,4 +1,4 @@
-### Guillaume Djaider-Fornari
+### Guillaume
 
 Développeur iOS : Swift, SwiftUI, architecture d'apps et outillage IA pour le développement.
 
