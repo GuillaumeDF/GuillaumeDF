@@ -1,11 +1,33 @@
-### Guillaume
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Guillaume — Développeur iOS. Architecture d'apps. Outillage IA." src="assets/banner-light.svg" width="100%">
+</picture>
 
-Développeur iOS : Swift, SwiftUI, architecture d'apps et outillage IA pour le développement.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <img alt="Stack : Swift, SwiftUI, UIKit, Swift Concurrency, Core Data, HealthKit, Swift Testing, Claude Code" src="assets/stack-light.svg" width="480">
+  </picture>
+</p>
 
-**Stack** : Swift · SwiftUI · UIKit · Swift Concurrency · Core Data · HealthKit · Swift Testing / XCTest
+### Projets
 
-**Projets**
-
-- [Valido](https://github.com/GuillaumeDF/Valido) — un feed vertical de QCM (code de la route, Swift/iOS) pensé pour remplacer le scroll passif. Scheduler pur et testé, Swift 6, conçu spec par spec avec Claude Code.
-- [MorningStar](https://github.com/GuillaumeDF/MorningStar) — un tableau de bord santé pour iPad sur HealthKit, avec synchronisation incrémentale vers Core Data et graphes dessinés à la main.
-- [swift-review](https://github.com/GuillaumeDF/swift-review) — un skill Claude Code de code review Swift multi-agents : cinq chercheurs par angle, puis un jury de réfuteurs qui ne laisse passer que les findings prouvés.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/GuillaumeDF/Valido"><b>Valido</b></a><br><br>
+      Un feed vertical de QCM qui remplace le scroll passif. Scheduler pur et testé, conçu spec par spec avec Claude Code.<br><br>
+      <sub>Swift · iOS 26 · Swift 6</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/GuillaumeDF/MorningStar"><b>MorningStar</b></a><br><br>
+      Tableau de bord santé iPad sur HealthKit, synchronisation incrémentale vers Core Data, graphes dessinés à la main.<br><br>
+      <sub>Swift · iPadOS · HealthKit</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/GuillaumeDF/swift-review"><b>swift-review</b></a><br><br>
+      Code review Swift multi-agents pour Claude Code : un jury de réfuteurs ne garde que les findings prouvés.<br><br>
+      <sub>Claude Code · multi-agents</sub>
+    </td>
+  </tr>
+</table>
