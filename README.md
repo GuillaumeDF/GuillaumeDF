@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Guillaume — Développeur iOS. Architecture d'apps. Outillage IA." src="assets/banner-light.svg" width="100%">
+  <img alt="Guillaume — Développeur iOS. Architecture d'apps. Agents IA." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
